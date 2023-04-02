@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Sven Linderoth 
+------------------------------------------
+Developer & UX/UI Designer
+------------------------------------------
+✉ svenlinderoth@outlook.com
 
 <!--
 **SvenLinderoth/SvenLinderoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
