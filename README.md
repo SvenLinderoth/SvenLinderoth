@@ -4,6 +4,8 @@ Developer & UX/UI Designer
 ------------------------------------------
 ✉ svenlinderoth@outlook.com
 
+🌍 Sweden
+
 <!--
 **SvenLinderoth/SvenLinderoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
