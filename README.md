@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Sven Linderoth 
 ------------------------------------------
-Software Developer & UX/UI Designer
+Software Developer
 ------------------------------------------
 ✉ svenlinderoth@outlook.com
 
